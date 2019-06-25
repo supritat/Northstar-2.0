@@ -1,4 +1,4 @@
-package com.mobile;
+package com.piktorlabs.whatsapp;
 
 import com.facebook.react.ReactActivity;
 

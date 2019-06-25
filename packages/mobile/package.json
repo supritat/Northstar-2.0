@@ -1,5 +1,5 @@
 {
-  "name": "mobile",
+  "name": "Northstar2.0",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   "dependencies": {
     "react": "16.8.3",
     "react-native": "0.59.9",
+    "react-native-firebase": "^5.5.3",
     "shared": "1.0.0"
   },
   "devDependencies": {
