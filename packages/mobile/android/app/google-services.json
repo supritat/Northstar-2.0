@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "587808969018",
+    "firebase_url": "https://piktorwhatsapp.firebaseio.com",
+    "project_id": "piktorwhatsapp",
+    "storage_bucket": "piktorwhatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587808969018:android:23dbfc9a16a3f4a4",
+        "android_client_info": {
+          "package_name": "com.piktorlabs.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587808969018-bnacpoq7pdn5kbhnkd3ootms9ml7tp1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfzi7Y3pM8Z6d8wAVnFIPOWpQZPcTFPss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587808969018-bnacpoq7pdn5kbhnkd3ootms9ml7tp1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
