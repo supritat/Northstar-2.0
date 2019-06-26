@@ -10,7 +10,7 @@ export default function Login() {
     handlePasswordChange = (event) => {
         setPassword(event.target.value)
     }
-    submitClick = () => {
+    submitclick = () => {
         if ((userName == "krishankantsinghal") && (password == "krishankant123")) {
             setIsLoggedin(true);
         }
@@ -20,7 +20,7 @@ export default function Login() {
         <div>
             <input type="text" name="username" hint="username" onChange={this.handleUserIdChange} />
             <input type="password" name="password" hint="password" onChange={this.handlePasswordChange} />
-            <button name="submit" onClick={this.submitClick}> Submit</button>
+            <button name="submit" onClick={this.submitclick}> Submit</button>
         </div>
     );
 }
